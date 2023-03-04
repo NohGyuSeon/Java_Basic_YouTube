@@ -1,0 +1,10 @@
+javadoc -encoding UTF-8  -d .//doc first//src//org//nhnacademy//FractalTree.java 
+
+
+/*
+ * 반드시 있어야 하는 메소드 (LinkedList 구현 시) 
+ * add()
+ * getEntry(int position)
+ * isEmpty()
+ * constructor()
+ */

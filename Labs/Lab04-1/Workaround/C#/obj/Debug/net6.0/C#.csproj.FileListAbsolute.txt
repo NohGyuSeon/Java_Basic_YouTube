@@ -1,0 +1,15 @@
+D:\00 Sang Hoon Kim My Document\Google Drive\강의자료\Java\Progamming with Java\Lab\Lab04-1\Workaround\C#\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
+D:\00 Sang Hoon Kim My Document\Google Drive\강의자료\Java\Progamming with Java\Lab\Lab04-1\Workaround\C#\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\00 Sang Hoon Kim My Document\Google Drive\강의자료\Java\Progamming with Java\Lab\Lab04-1\Workaround\C#\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
+D:\00 Sang Hoon Kim My Document\Google Drive\강의자료\Java\Progamming with Java\Lab\Lab04-1\Workaround\C#\obj\Debug\net6.0\C#.AssemblyInfo.cs
+D:\00 Sang Hoon Kim My Document\Google Drive\강의자료\Java\Progamming with Java\Lab\Lab04-1\Workaround\C#\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
+D:\00 Sang Hoon Kim My Document\Google Drive\강의자료\Java\Progamming with Java\Lab\Lab04-1\Workaround\C#\bin\Debug\net6.0\C#.exe
+D:\00 Sang Hoon Kim My Document\Google Drive\강의자료\Java\Progamming with Java\Lab\Lab04-1\Workaround\C#\bin\Debug\net6.0\C#.deps.json
+D:\00 Sang Hoon Kim My Document\Google Drive\강의자료\Java\Progamming with Java\Lab\Lab04-1\Workaround\C#\bin\Debug\net6.0\C#.runtimeconfig.json
+D:\00 Sang Hoon Kim My Document\Google Drive\강의자료\Java\Progamming with Java\Lab\Lab04-1\Workaround\C#\bin\Debug\net6.0\C#.dll
+D:\00 Sang Hoon Kim My Document\Google Drive\강의자료\Java\Progamming with Java\Lab\Lab04-1\Workaround\C#\bin\Debug\net6.0\C#.pdb
+D:\00 Sang Hoon Kim My Document\Google Drive\강의자료\Java\Progamming with Java\Lab\Lab04-1\Workaround\C#\obj\Debug\net6.0\C#.dll
+D:\00 Sang Hoon Kim My Document\Google Drive\강의자료\Java\Progamming with Java\Lab\Lab04-1\Workaround\C#\obj\Debug\net6.0\refint\C#.dll
+D:\00 Sang Hoon Kim My Document\Google Drive\강의자료\Java\Progamming with Java\Lab\Lab04-1\Workaround\C#\obj\Debug\net6.0\C#.pdb
+D:\00 Sang Hoon Kim My Document\Google Drive\강의자료\Java\Progamming with Java\Lab\Lab04-1\Workaround\C#\obj\Debug\net6.0\C#.genruntimeconfig.cache
+D:\00 Sang Hoon Kim My Document\Google Drive\강의자료\Java\Progamming with Java\Lab\Lab04-1\Workaround\C#\obj\Debug\net6.0\ref\C#.dll
